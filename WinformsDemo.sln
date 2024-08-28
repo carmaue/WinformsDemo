@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsDemo", "WinformsDemo.csproj", "{3E7357DF-2644-4FED-BB14-4A29B041B259}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformsDemo.Tests", "..\WinformsDemo.Tests\WinformsDemo.Tests.csproj", "{7592BEB8-2171-45A5-9C91-A89E4785B981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3E7357DF-2644-4FED-BB14-4A29B041B259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E7357DF-2644-4FED-BB14-4A29B041B259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E7357DF-2644-4FED-BB14-4A29B041B259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7592BEB8-2171-45A5-9C91-A89E4785B981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7592BEB8-2171-45A5-9C91-A89E4785B981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7592BEB8-2171-45A5-9C91-A89E4785B981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7592BEB8-2171-45A5-9C91-A89E4785B981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
